@@ -10,5 +10,6 @@
 - [Tags de Formatação de Texto](/Web-Front-End/HTML/tags_de_formatacao.html);
 - [Elementos Semânticos do HTML 5](/Web-Front-End/HTML/elementos_semanticos.html);
 - [Construindo uma barra de navegação](/Web-Front-End/HTML/barra_de_navegacao.html);
+- [Tabelas](/Web-Front-End/HTML/tabelas.html);
 
 &nbsp;
