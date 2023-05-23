@@ -4,6 +4,6 @@
 
 ## **CSS 03**
 
-- [Criando a primeira página](/Web-Front-End/HTML/primeiro.html);
+- [Introdução](/Web-Front-End/CSS/css_aulas/index.html);
 
 &nbsp;
