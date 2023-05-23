@@ -11,5 +11,6 @@
 - [Elementos Semânticos do HTML 5](/Web-Front-End/HTML/elementos_semanticos.html);
 - [Construindo uma barra de navegação](/Web-Front-End/HTML/barra_de_navegacao.html);
 - [Tabelas](/Web-Front-End/HTML/tabelas.html);
+- [Formularios](/Web-Front-End/HTML/formularios.html);
 
 &nbsp;
