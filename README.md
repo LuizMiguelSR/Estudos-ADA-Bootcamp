@@ -7,3 +7,5 @@ Repositório destinado ao bootcamp realizados na ADA
 - ### **[Módulo II - HTML 05](/Web-Front-End/HTML/)**
 
 - ### **[Módulo III - CSS 03](/Web-Front-End/CSS/)**
+
+- ### **[Módulo IV - JavaScript](/Web-Front-End/JavaScript/)**
