@@ -10,7 +10,7 @@ console.log(arr1.slice(2));
 
 console.clear();
 
-// Adicionando elementos: pop | unshift
+// Adicionando elementos: push | unshift
 
 console.log(`Antes de adicionar: ${arr2}`);
 
