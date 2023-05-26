@@ -10,5 +10,6 @@
 - [Operadores Boleanos](/Web-Front-End/JavaScript/operadores_boleanos.js);
 - [Conversão de Tipos](/Web-Front-End/JavaScript/conversao_de_tipos.js);
 - [Estruturas Condicionais](/Web-Front-End/JavaScript/estruturas_condicionais.js);
+- [Estruturas Repetição e Laços condicionais](/Web-Front-End/JavaScript/estruturas_repeticao_e_condicionais.js);
 
 &nbsp;
