@@ -15,5 +15,6 @@
 - [Arrays #01](/Web-Front-End/JavaScript/arrays1.js);
 - [Arrays #02](/Web-Front-End/JavaScript/arrays2.js);
 - [Funções](/Web-Front-End/JavaScript/funcoes.js);
+- [Objetos](/Web-Front-End/JavaScript/objetos.js);
 
 &nbsp;
