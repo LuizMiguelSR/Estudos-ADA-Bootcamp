@@ -13,5 +13,6 @@
 - [Estruturas Repetição e Laços condicionais](/Web-Front-End/JavaScript/estruturas_repeticao_e_condicionais.js);
 - [Laços númericos](/Web-Front-End/JavaScript/lacos_numericos.js);
 - [Arrays #01](/Web-Front-End/JavaScript/arrays1.js);
+- [Arrays #02](/Web-Front-End/JavaScript/arrays2.js);
 
 &nbsp;
