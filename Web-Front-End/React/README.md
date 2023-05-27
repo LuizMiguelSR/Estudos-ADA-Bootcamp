@@ -10,6 +10,7 @@
 - [Estados e eventos](https://github.com/LuizMiguelSR/Estudos-ADA-Bootcamp/commit/594bf3c8787cfc4c7db402bc1e07b6b70ff8cb71);
 - [Renderização condicional](https://github.com/LuizMiguelSR/Estudos-ADA-Bootcamp/commit/ac64b53a599b3a56de1ccc3cbeb37a4084c9acae);
 - [Listas e chaves](https://github.com/LuizMiguelSR/Estudos-ADA-Bootcamp/commit/4d64f25c6e68b1c0c0a97eaf7be1261626b685da);
-- [Efeitos colaterais](https://github.com/LuizMiguelSR/Estudos-ADA-Bootcamp/commit/4d64f25c6e68b1c0c0a97eaf7be1261626b685da);
+- [Efeitos colaterais](https://github.com/LuizMiguelSR/Estudos-ADA-Bootcamp/commit/e25f2ab31373d7f32ac7354fd14ef1972eaa8346);
+- [Buscando dados com fetch](https://github.com/LuizMiguelSR/Estudos-ADA-Bootcamp/commit/e25f2ab31373d7f32ac7354fd14ef1972eaa8346);
 
 &nbsp;
