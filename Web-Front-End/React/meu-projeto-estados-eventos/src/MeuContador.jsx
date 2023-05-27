@@ -1,4 +1,5 @@
 import { useState } from "react"
+import styles from './button.module.css'
 
 export default function MeuContador() {
     
@@ -11,10 +12,10 @@ export default function MeuContador() {
     }
     
     return (
-        <div>
+        <div className="container">
             <h1>Meu Contador</h1>
             <h3>{contador}</h3>
-            <button onClick={aumentar}>aumentar</button>
+            <button className={styles.myButton} onClick={aumentar}>aumentar</button>
         </div>
     )
 }
